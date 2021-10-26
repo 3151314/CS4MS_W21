@@ -49,4 +49,3 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 9
   - [Lecture 9: 3D U-Net Segmentation of Hippocampus](https://colab.research.google.com/github/CS4MS/CS4MS_S21/blob/main/lectures/Lecture_9_3D_Unet_Hippocampus.ipynb) 
 -->
-# test
