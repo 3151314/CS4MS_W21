@@ -25,18 +25,18 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 4
   - [Lecture 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/lectures/Lecture_4.ipynb)
   - [Exercise 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/exercises/Exercise_4.ipynb)
- <!-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_4_Solution.ipynb) -->
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_4_Solution.ipynb)
 - Week 5
   - [Exercise 5: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/exercises/Exercise_5.ipynb)
  <!-- - [Exercise 5: Object Oriented Programming - partially filled](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/exercises/Exercise_5_filled.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_5_Solution.ipynb)
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_5_Solution.ipynb) -->
 - Week 6
   - [Lecture 6: Transformations and Dataloader](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/lectures/Lecture_6.ipynb)
-  - [Lecture 6 filled](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/lectures/Lecture_6_filled.ipynb)
+   <!-- - [Lecture 6 filled](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/lectures/Lecture_6_filled.ipynb) -->
   - [Exercise 6: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/exercises/Exercise_6.ipynb) 
-  - [Solution 6](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_6_solution.ipynb)
+  <!-- - [Solution 6](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_6_solution.ipynb) -->
 
-
+<!--
 - Week 7
   - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/lectures/Lecture_7_Exercise_5.2.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W21/blob/main/solutions/Exercise_7_solution.ipynb)
